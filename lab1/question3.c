@@ -1,5 +1,4 @@
 #include<stdio.h>
-#include<conio.h>
 void main() {
 	int degree,x;
 	int coeff[degree+1], i,div[degree+1];
